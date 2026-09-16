@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/sachin2414285/Leetcode/tree/master/0007-reverse-integer) |
+| [1688-count-of-matches-in-tournament](https://github.com/sachin2414285/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 ## Two Pointers
 |  |
 | ------- |
@@ -22,4 +23,8 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sachin2414285/Leetcode/tree/master/0015-3sum) |
+## Simulation
+|  |
+| ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/sachin2414285/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 <!---LeetCode Topics End-->
