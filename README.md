@@ -15,6 +15,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/sachin2414285/Leetcode/tree/master/0007-reverse-integer) |
 | [1688-count-of-matches-in-tournament](https://github.com/sachin2414285/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
+| [2169-count-operations-to-obtain-zero](https://github.com/sachin2414285/Leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,4 +28,5 @@
 |  |
 | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/sachin2414285/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
+| [2169-count-operations-to-obtain-zero](https://github.com/sachin2414285/Leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 <!---LeetCode Topics End-->
