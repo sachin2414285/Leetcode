@@ -20,6 +20,7 @@
 | [1837-sum-of-digits-in-base-k](https://github.com/sachin2414285/Leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [2169-count-operations-to-obtain-zero](https://github.com/sachin2414285/Leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2549-count-distinct-numbers-on-board](https://github.com/sachin2414285/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
+| [2582-pass-the-pillow](https://github.com/sachin2414285/Leetcode/tree/master/2582-pass-the-pillow) |
 | [2843-count-symmetric-integers](https://github.com/sachin2414285/Leetcode/tree/master/2843-count-symmetric-integers) |
 ## Two Pointers
 |  |
@@ -35,6 +36,7 @@
 | [1688-count-of-matches-in-tournament](https://github.com/sachin2414285/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2169-count-operations-to-obtain-zero](https://github.com/sachin2414285/Leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2549-count-distinct-numbers-on-board](https://github.com/sachin2414285/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
+| [2582-pass-the-pillow](https://github.com/sachin2414285/Leetcode/tree/master/2582-pass-the-pillow) |
 ## Dynamic Programming
 |  |
 | ------- |
