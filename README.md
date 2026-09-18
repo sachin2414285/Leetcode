@@ -20,6 +20,7 @@
 | [1837-sum-of-digits-in-base-k](https://github.com/sachin2414285/Leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [2169-count-operations-to-obtain-zero](https://github.com/sachin2414285/Leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2549-count-distinct-numbers-on-board](https://github.com/sachin2414285/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
+| [2843-count-symmetric-integers](https://github.com/sachin2414285/Leetcode/tree/master/2843-count-symmetric-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,4 +67,8 @@
 |  |
 | ------- |
 | [0669-trim-a-binary-search-tree](https://github.com/sachin2414285/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
+## Enumeration
+|  |
+| ------- |
+| [2843-count-symmetric-integers](https://github.com/sachin2414285/Leetcode/tree/master/2843-count-symmetric-integers) |
 <!---LeetCode Topics End-->
