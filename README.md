@@ -6,16 +6,19 @@
 | ------- |
 | [0001-two-sum](https://github.com/sachin2414285/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/sachin2414285/Leetcode/tree/master/0015-3sum) |
+| [2549-count-distinct-numbers-on-board](https://github.com/sachin2414285/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sachin2414285/Leetcode/tree/master/0001-two-sum) |
+| [2549-count-distinct-numbers-on-board](https://github.com/sachin2414285/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/sachin2414285/Leetcode/tree/master/0007-reverse-integer) |
 | [1688-count-of-matches-in-tournament](https://github.com/sachin2414285/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2169-count-operations-to-obtain-zero](https://github.com/sachin2414285/Leetcode/tree/master/2169-count-operations-to-obtain-zero) |
+| [2549-count-distinct-numbers-on-board](https://github.com/sachin2414285/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,6 +32,7 @@
 | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/sachin2414285/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2169-count-operations-to-obtain-zero](https://github.com/sachin2414285/Leetcode/tree/master/2169-count-operations-to-obtain-zero) |
+| [2549-count-distinct-numbers-on-board](https://github.com/sachin2414285/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 ## Dynamic Programming
 |  |
 | ------- |
