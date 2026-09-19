@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sachin2414285/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/sachin2414285/Leetcode/tree/master/0015-3sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sachin2414285/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/sachin2414285/Leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2549-count-distinct-numbers-on-board](https://github.com/sachin2414285/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 ## Hash Table
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sachin2414285/Leetcode/tree/master/0015-3sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sachin2414285/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
 | ------- |
@@ -66,6 +68,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sachin2414285/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0669-trim-a-binary-search-tree](https://github.com/sachin2414285/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/sachin2414285/Leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 ## Binary Tree
