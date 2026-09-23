@@ -18,6 +18,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sachin2414285/Leetcode/tree/master/0001-two-sum) |
 | [2549-count-distinct-numbers-on-board](https://github.com/sachin2414285/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sachin2414285/Leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Math
 |  |
 | ------- |
@@ -107,4 +108,12 @@
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sachin2414285/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+## String
+|  |
+| ------- |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sachin2414285/Leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
+## Counting
+|  |
+| ------- |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sachin2414285/Leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 <!---LeetCode Topics End-->
