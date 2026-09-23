@@ -11,12 +11,14 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sachin2414285/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/sachin2414285/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sachin2414285/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sachin2414285/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/sachin2414285/Leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2549-count-distinct-numbers-on-board](https://github.com/sachin2414285/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sachin2414285/Leetcode/tree/master/0001-two-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sachin2414285/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2549-count-distinct-numbers-on-board](https://github.com/sachin2414285/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sachin2414285/Leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Math
@@ -81,6 +83,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/sachin2414285/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0669-trim-a-binary-search-tree](https://github.com/sachin2414285/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sachin2414285/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sachin2414285/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/sachin2414285/Leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 ## Binary Tree
 |  |
@@ -94,12 +97,14 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sachin2414285/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sachin2414285/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/sachin2414285/Leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 ## Sliding Window
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sachin2414285/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sachin2414285/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sachin2414285/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Rolling Hash
 |  |
 | ------- |
