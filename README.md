@@ -22,6 +22,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sachin2414285/Leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/sachin2414285/Leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/sachin2414285/Leetcode/tree/master/0013-roman-to-integer) |
 | [1496-path-crossing](https://github.com/sachin2414285/Leetcode/tree/master/1496-path-crossing) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sachin2414285/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2549-count-distinct-numbers-on-board](https://github.com/sachin2414285/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
@@ -32,6 +33,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/sachin2414285/Leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/sachin2414285/Leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/sachin2414285/Leetcode/tree/master/0013-roman-to-integer) |
 | [1688-count-of-matches-in-tournament](https://github.com/sachin2414285/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1837-sum-of-digits-in-base-k](https://github.com/sachin2414285/Leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [2169-count-operations-to-obtain-zero](https://github.com/sachin2414285/Leetcode/tree/master/2169-count-operations-to-obtain-zero) |
@@ -128,6 +130,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/sachin2414285/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/sachin2414285/Leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/sachin2414285/Leetcode/tree/master/0013-roman-to-integer) |
 | [1496-path-crossing](https://github.com/sachin2414285/Leetcode/tree/master/1496-path-crossing) |
 | [3110-score-of-a-string](https://github.com/sachin2414285/Leetcode/tree/master/3110-score-of-a-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sachin2414285/Leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
