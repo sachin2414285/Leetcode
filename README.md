@@ -15,6 +15,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sachin2414285/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sachin2414285/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/sachin2414285/Leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/sachin2414285/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/sachin2414285/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2549-count-distinct-numbers-on-board](https://github.com/sachin2414285/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sachin2414285/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -76,6 +77,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sachin2414285/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/sachin2414285/Leetcode/tree/master/0134-gas-station) |
 | [0397-integer-replacement](https://github.com/sachin2414285/Leetcode/tree/master/0397-integer-replacement) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/sachin2414285/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Bit Manipulation
 |  |
 | ------- |
