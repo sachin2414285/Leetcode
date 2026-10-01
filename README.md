@@ -13,6 +13,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/sachin2414285/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0506-relative-ranks](https://github.com/sachin2414285/Leetcode/tree/master/0506-relative-ranks) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sachin2414285/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/sachin2414285/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sachin2414285/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/sachin2414285/Leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sachin2414285/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
