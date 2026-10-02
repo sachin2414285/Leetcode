@@ -15,6 +15,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sachin2414285/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/sachin2414285/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sachin2414285/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1720-decode-xored-array](https://github.com/sachin2414285/Leetcode/tree/master/1720-decode-xored-array) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/sachin2414285/Leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sachin2414285/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/sachin2414285/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/sachin2414285/Leetcode/tree/master/0397-integer-replacement) |
+| [1720-decode-xored-array](https://github.com/sachin2414285/Leetcode/tree/master/1720-decode-xored-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/sachin2414285/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Memoization
 |  |
