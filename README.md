@@ -68,6 +68,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/sachin2414285/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/sachin2414285/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sachin2414285/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0397-integer-replacement](https://github.com/sachin2414285/Leetcode/tree/master/0397-integer-replacement) |
@@ -142,6 +143,7 @@
 | [0008-string-to-integer-atoi](https://github.com/sachin2414285/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/sachin2414285/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sachin2414285/Leetcode/tree/master/0013-roman-to-integer) |
+| [0032-longest-valid-parentheses](https://github.com/sachin2414285/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1496-path-crossing](https://github.com/sachin2414285/Leetcode/tree/master/1496-path-crossing) |
 | [3110-score-of-a-string](https://github.com/sachin2414285/Leetcode/tree/master/3110-score-of-a-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sachin2414285/Leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
@@ -165,4 +167,12 @@
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/sachin2414285/Leetcode/tree/master/0506-relative-ranks) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/sachin2414285/Leetcode/tree/master/0032-longest-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/sachin2414285/Leetcode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
