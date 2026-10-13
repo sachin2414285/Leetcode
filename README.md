@@ -23,6 +23,7 @@
 | [2549-count-distinct-numbers-on-board](https://github.com/sachin2414285/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sachin2414285/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sachin2414285/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/sachin2414285/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@
 | [0015-3sum](https://github.com/sachin2414285/Leetcode/tree/master/0015-3sum) |
 | [0389-find-the-difference](https://github.com/sachin2414285/Leetcode/tree/master/0389-find-the-difference) |
 | [0506-relative-ranks](https://github.com/sachin2414285/Leetcode/tree/master/0506-relative-ranks) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/sachin2414285/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Simulation
 |  |
 | ------- |
@@ -85,6 +87,7 @@
 | [0134-gas-station](https://github.com/sachin2414285/Leetcode/tree/master/0134-gas-station) |
 | [0397-integer-replacement](https://github.com/sachin2414285/Leetcode/tree/master/0397-integer-replacement) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sachin2414285/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/sachin2414285/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bit Manipulation
 |  |
 | ------- |
