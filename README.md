@@ -13,6 +13,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sachin2414285/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/sachin2414285/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sachin2414285/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0274-h-index](https://github.com/sachin2414285/Leetcode/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/sachin2414285/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0506-relative-ranks](https://github.com/sachin2414285/Leetcode/tree/master/0506-relative-ranks) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sachin2414285/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -69,6 +70,7 @@
 | [0015-3sum](https://github.com/sachin2414285/Leetcode/tree/master/0015-3sum) |
 | [0164-maximum-gap](https://github.com/sachin2414285/Leetcode/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sachin2414285/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0274-h-index](https://github.com/sachin2414285/Leetcode/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/sachin2414285/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0389-find-the-difference](https://github.com/sachin2414285/Leetcode/tree/master/0389-find-the-difference) |
 | [0506-relative-ranks](https://github.com/sachin2414285/Leetcode/tree/master/0506-relative-ranks) |
@@ -227,4 +229,8 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/sachin2414285/Leetcode/tree/master/0164-maximum-gap) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/sachin2414285/Leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
