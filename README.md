@@ -27,6 +27,7 @@
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/sachin2414285/Leetcode/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sachin2414285/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/sachin2414285/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2465-number-of-distinct-averages](https://github.com/sachin2414285/Leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2549-count-distinct-numbers-on-board](https://github.com/sachin2414285/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sachin2414285/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sachin2414285/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -41,6 +42,7 @@
 | [0389-find-the-difference](https://github.com/sachin2414285/Leetcode/tree/master/0389-find-the-difference) |
 | [1496-path-crossing](https://github.com/sachin2414285/Leetcode/tree/master/1496-path-crossing) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sachin2414285/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2465-number-of-distinct-averages](https://github.com/sachin2414285/Leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2549-count-distinct-numbers-on-board](https://github.com/sachin2414285/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sachin2414285/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sachin2414285/Leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
@@ -67,6 +69,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sachin2414285/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0633-sum-of-square-numbers](https://github.com/sachin2414285/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0917-reverse-only-letters](https://github.com/sachin2414285/Leetcode/tree/master/0917-reverse-only-letters) |
+| [2465-number-of-distinct-averages](https://github.com/sachin2414285/Leetcode/tree/master/2465-number-of-distinct-averages) |
 ## Sorting
 |  |
 | ------- |
@@ -78,6 +81,7 @@
 | [0389-find-the-difference](https://github.com/sachin2414285/Leetcode/tree/master/0389-find-the-difference) |
 | [0506-relative-ranks](https://github.com/sachin2414285/Leetcode/tree/master/0506-relative-ranks) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/sachin2414285/Leetcode/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
+| [2465-number-of-distinct-averages](https://github.com/sachin2414285/Leetcode/tree/master/2465-number-of-distinct-averages) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sachin2414285/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Simulation
 |  |
