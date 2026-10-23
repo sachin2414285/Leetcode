@@ -18,6 +18,7 @@
 | [0275-h-index-ii](https://github.com/sachin2414285/Leetcode/tree/master/0275-h-index-ii) |
 | [0324-wiggle-sort-ii](https://github.com/sachin2414285/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0506-relative-ranks](https://github.com/sachin2414285/Leetcode/tree/master/0506-relative-ranks) |
+| [0560-subarray-sum-equals-k](https://github.com/sachin2414285/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sachin2414285/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/sachin2414285/Leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/sachin2414285/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -41,6 +42,7 @@
 | [0012-integer-to-roman](https://github.com/sachin2414285/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sachin2414285/Leetcode/tree/master/0013-roman-to-integer) |
 | [0389-find-the-difference](https://github.com/sachin2414285/Leetcode/tree/master/0389-find-the-difference) |
+| [0560-subarray-sum-equals-k](https://github.com/sachin2414285/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1496-path-crossing](https://github.com/sachin2414285/Leetcode/tree/master/1496-path-crossing) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sachin2414285/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2465-number-of-distinct-averages](https://github.com/sachin2414285/Leetcode/tree/master/2465-number-of-distinct-averages) |
@@ -155,6 +157,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sachin2414285/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/sachin2414285/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sachin2414285/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sachin2414285/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/sachin2414285/Leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
