@@ -23,6 +23,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sachin2414285/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/sachin2414285/Leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/sachin2414285/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1572-matrix-diagonal-sum](https://github.com/sachin2414285/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sachin2414285/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sachin2414285/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1720-decode-xored-array](https://github.com/sachin2414285/Leetcode/tree/master/1720-decode-xored-array) |
@@ -257,5 +258,6 @@
 ## Matrix
 |  |
 | ------- |
+| [1572-matrix-diagonal-sum](https://github.com/sachin2414285/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/sachin2414285/Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 <!---LeetCode Topics End-->
