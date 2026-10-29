@@ -60,6 +60,7 @@
 | [0007-reverse-integer](https://github.com/sachin2414285/Leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/sachin2414285/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sachin2414285/Leetcode/tree/master/0013-roman-to-integer) |
+| [0371-sum-of-two-integers](https://github.com/sachin2414285/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0633-sum-of-square-numbers](https://github.com/sachin2414285/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sachin2414285/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1688-count-of-matches-in-tournament](https://github.com/sachin2414285/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
@@ -124,6 +125,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/sachin2414285/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/sachin2414285/Leetcode/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/sachin2414285/Leetcode/tree/master/0397-integer-replacement) |
 | [1720-decode-xored-array](https://github.com/sachin2414285/Leetcode/tree/master/1720-decode-xored-array) |
