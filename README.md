@@ -119,6 +119,7 @@
 | [0134-gas-station](https://github.com/sachin2414285/Leetcode/tree/master/0134-gas-station) |
 | [0324-wiggle-sort-ii](https://github.com/sachin2414285/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0397-integer-replacement](https://github.com/sachin2414285/Leetcode/tree/master/0397-integer-replacement) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sachin2414285/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/sachin2414285/Leetcode/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sachin2414285/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sachin2414285/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -195,6 +196,7 @@
 | [0032-longest-valid-parentheses](https://github.com/sachin2414285/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0389-find-the-difference](https://github.com/sachin2414285/Leetcode/tree/master/0389-find-the-difference) |
 | [0917-reverse-only-letters](https://github.com/sachin2414285/Leetcode/tree/master/0917-reverse-only-letters) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sachin2414285/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/sachin2414285/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1496-path-crossing](https://github.com/sachin2414285/Leetcode/tree/master/1496-path-crossing) |
 | [3110-score-of-a-string](https://github.com/sachin2414285/Leetcode/tree/master/3110-score-of-a-string) |
@@ -225,6 +227,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/sachin2414285/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sachin2414285/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sachin2414285/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/sachin2414285/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/sachin2414285/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
@@ -232,6 +235,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/sachin2414285/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sachin2414285/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sachin2414285/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/sachin2414285/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Divide and Conquer
 |  |
