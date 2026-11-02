@@ -22,6 +22,7 @@
 | [0506-relative-ranks](https://github.com/sachin2414285/Leetcode/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/sachin2414285/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sachin2414285/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0941-valid-mountain-array](https://github.com/sachin2414285/Leetcode/tree/master/0941-valid-mountain-array) |
 | [0946-validate-stack-sequences](https://github.com/sachin2414285/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/sachin2414285/Leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/sachin2414285/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
