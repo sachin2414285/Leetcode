@@ -37,6 +37,7 @@
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/sachin2414285/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2465-number-of-distinct-averages](https://github.com/sachin2414285/Leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2549-count-distinct-numbers-on-board](https://github.com/sachin2414285/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
+| [2865-beautiful-towers-i](https://github.com/sachin2414285/Leetcode/tree/master/2865-beautiful-towers-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sachin2414285/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sachin2414285/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sachin2414285/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -233,6 +234,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sachin2414285/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/sachin2414285/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/sachin2414285/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [2865-beautiful-towers-i](https://github.com/sachin2414285/Leetcode/tree/master/2865-beautiful-towers-i) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -272,4 +274,8 @@
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/sachin2414285/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/sachin2414285/Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2865-beautiful-towers-i](https://github.com/sachin2414285/Leetcode/tree/master/2865-beautiful-towers-i) |
 <!---LeetCode Topics End-->
