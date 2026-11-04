@@ -82,6 +82,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sachin2414285/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0633-sum-of-square-numbers](https://github.com/sachin2414285/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0917-reverse-only-letters](https://github.com/sachin2414285/Leetcode/tree/master/0917-reverse-only-letters) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sachin2414285/Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2465-number-of-distinct-averages](https://github.com/sachin2414285/Leetcode/tree/master/2465-number-of-distinct-averages) |
 ## Sorting
 |  |
@@ -124,6 +125,7 @@
 | [0324-wiggle-sort-ii](https://github.com/sachin2414285/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0397-integer-replacement](https://github.com/sachin2414285/Leetcode/tree/master/0397-integer-replacement) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sachin2414285/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sachin2414285/Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/sachin2414285/Leetcode/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sachin2414285/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sachin2414285/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -203,6 +205,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sachin2414285/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/sachin2414285/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1496-path-crossing](https://github.com/sachin2414285/Leetcode/tree/master/1496-path-crossing) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sachin2414285/Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3110-score-of-a-string](https://github.com/sachin2414285/Leetcode/tree/master/3110-score-of-a-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sachin2414285/Leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Counting
@@ -234,6 +237,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sachin2414285/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/sachin2414285/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/sachin2414285/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sachin2414285/Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2865-beautiful-towers-i](https://github.com/sachin2414285/Leetcode/tree/master/2865-beautiful-towers-i) |
 ## Bracket Sequences
 |  |
@@ -242,6 +246,7 @@
 | [0032-longest-valid-parentheses](https://github.com/sachin2414285/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sachin2414285/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/sachin2414285/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sachin2414285/Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Divide and Conquer
 |  |
 | ------- |
