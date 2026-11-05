@@ -26,6 +26,7 @@
 | [0946-validate-stack-sequences](https://github.com/sachin2414285/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/sachin2414285/Leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/sachin2414285/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sachin2414285/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1572-matrix-diagonal-sum](https://github.com/sachin2414285/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sachin2414285/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sachin2414285/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -82,6 +83,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sachin2414285/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0633-sum-of-square-numbers](https://github.com/sachin2414285/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0917-reverse-only-letters](https://github.com/sachin2414285/Leetcode/tree/master/0917-reverse-only-letters) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sachin2414285/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sachin2414285/Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2465-number-of-distinct-averages](https://github.com/sachin2414285/Leetcode/tree/master/2465-number-of-distinct-averages) |
 ## Sorting
@@ -94,6 +96,7 @@
 | [0324-wiggle-sort-ii](https://github.com/sachin2414285/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0389-find-the-difference](https://github.com/sachin2414285/Leetcode/tree/master/0389-find-the-difference) |
 | [0506-relative-ranks](https://github.com/sachin2414285/Leetcode/tree/master/0506-relative-ranks) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sachin2414285/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/sachin2414285/Leetcode/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2465-number-of-distinct-averages](https://github.com/sachin2414285/Leetcode/tree/master/2465-number-of-distinct-averages) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sachin2414285/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -159,6 +162,7 @@
 | [0633-sum-of-square-numbers](https://github.com/sachin2414285/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0669-trim-a-binary-search-tree](https://github.com/sachin2414285/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sachin2414285/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sachin2414285/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sachin2414285/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/sachin2414285/Leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 ## Binary Tree
