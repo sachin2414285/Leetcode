@@ -40,6 +40,7 @@
 | [2549-count-distinct-numbers-on-board](https://github.com/sachin2414285/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2865-beautiful-towers-i](https://github.com/sachin2414285/Leetcode/tree/master/2865-beautiful-towers-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sachin2414285/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3364-minimum-positive-sum-subarray](https://github.com/sachin2414285/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sachin2414285/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sachin2414285/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3788-maximum-score-of-a-split](https://github.com/sachin2414285/Leetcode/tree/master/3788-maximum-score-of-a-split) |
@@ -183,6 +184,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sachin2414285/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sachin2414285/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/sachin2414285/Leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
+| [3364-minimum-positive-sum-subarray](https://github.com/sachin2414285/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3788-maximum-score-of-a-split](https://github.com/sachin2414285/Leetcode/tree/master/3788-maximum-score-of-a-split) |
 ## Sliding Window
 |  |
@@ -190,6 +192,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/sachin2414285/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sachin2414285/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sachin2414285/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3364-minimum-positive-sum-subarray](https://github.com/sachin2414285/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Rolling Hash
 |  |
 | ------- |
