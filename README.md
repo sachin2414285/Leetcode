@@ -9,6 +9,7 @@
 | [0053-maximum-subarray](https://github.com/sachin2414285/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sachin2414285/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sachin2414285/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/sachin2414285/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/sachin2414285/Leetcode/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/sachin2414285/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/sachin2414285/Leetcode/tree/master/0164-maximum-gap) |
@@ -50,6 +51,7 @@
 | [0001-two-sum](https://github.com/sachin2414285/Leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/sachin2414285/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sachin2414285/Leetcode/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/sachin2414285/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0389-find-the-difference](https://github.com/sachin2414285/Leetcode/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/sachin2414285/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1496-path-crossing](https://github.com/sachin2414285/Leetcode/tree/master/1496-path-crossing) |
@@ -231,6 +233,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sachin2414285/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/sachin2414285/Leetcode/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
