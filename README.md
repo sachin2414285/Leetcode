@@ -72,6 +72,7 @@
 | [0371-sum-of-two-integers](https://github.com/sachin2414285/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sachin2414285/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0633-sum-of-square-numbers](https://github.com/sachin2414285/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [1492-the-kth-factor-of-n](https://github.com/sachin2414285/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sachin2414285/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1688-count-of-matches-in-tournament](https://github.com/sachin2414285/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1837-sum-of-digits-in-base-k](https://github.com/sachin2414285/Leetcode/tree/master/1837-sum-of-digits-in-base-k) |
@@ -316,4 +317,12 @@
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/sachin2414285/Leetcode/tree/master/0394-decode-string) |
+## Number Theory
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/sachin2414285/Leetcode/tree/master/1492-the-kth-factor-of-n) |
+## Prime Factorization
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/sachin2414285/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
