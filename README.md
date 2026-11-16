@@ -29,6 +29,7 @@
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/sachin2414285/Leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/sachin2414285/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sachin2414285/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1512-number-of-good-pairs](https://github.com/sachin2414285/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/sachin2414285/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sachin2414285/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sachin2414285/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -56,6 +57,7 @@
 | [0389-find-the-difference](https://github.com/sachin2414285/Leetcode/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/sachin2414285/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1496-path-crossing](https://github.com/sachin2414285/Leetcode/tree/master/1496-path-crossing) |
+| [1512-number-of-good-pairs](https://github.com/sachin2414285/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sachin2414285/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/sachin2414285/Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2351-first-letter-to-appear-twice](https://github.com/sachin2414285/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -73,6 +75,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sachin2414285/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0633-sum-of-square-numbers](https://github.com/sachin2414285/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1492-the-kth-factor-of-n](https://github.com/sachin2414285/Leetcode/tree/master/1492-the-kth-factor-of-n) |
+| [1512-number-of-good-pairs](https://github.com/sachin2414285/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sachin2414285/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1688-count-of-matches-in-tournament](https://github.com/sachin2414285/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1837-sum-of-digits-in-base-k](https://github.com/sachin2414285/Leetcode/tree/master/1837-sum-of-digits-in-base-k) |
@@ -229,6 +232,7 @@
 ## Counting
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/sachin2414285/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/sachin2414285/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sachin2414285/Leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Breadth-First Search
