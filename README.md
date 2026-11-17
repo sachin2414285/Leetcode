@@ -262,6 +262,7 @@
 | [0032-longest-valid-parentheses](https://github.com/sachin2414285/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/sachin2414285/Leetcode/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/sachin2414285/Leetcode/tree/master/0394-decode-string) |
+| [0901-online-stock-span](https://github.com/sachin2414285/Leetcode/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sachin2414285/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/sachin2414285/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/sachin2414285/Leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -310,6 +311,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/sachin2414285/Leetcode/tree/master/0901-online-stock-span) |
 | [2865-beautiful-towers-i](https://github.com/sachin2414285/Leetcode/tree/master/2865-beautiful-towers-i) |
 ## Quicksort
 |  |
@@ -331,4 +333,12 @@
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/sachin2414285/Leetcode/tree/master/1492-the-kth-factor-of-n) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/sachin2414285/Leetcode/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/sachin2414285/Leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
