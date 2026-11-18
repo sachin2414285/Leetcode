@@ -29,6 +29,7 @@
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/sachin2414285/Leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/sachin2414285/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sachin2414285/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sachin2414285/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1512-number-of-good-pairs](https://github.com/sachin2414285/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/sachin2414285/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sachin2414285/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -266,6 +267,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sachin2414285/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/sachin2414285/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/sachin2414285/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sachin2414285/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sachin2414285/Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2865-beautiful-towers-i](https://github.com/sachin2414285/Leetcode/tree/master/2865-beautiful-towers-i) |
 ## Bracket Sequences
@@ -312,6 +314,7 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/sachin2414285/Leetcode/tree/master/0901-online-stock-span) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sachin2414285/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2865-beautiful-towers-i](https://github.com/sachin2414285/Leetcode/tree/master/2865-beautiful-towers-i) |
 ## Quicksort
 |  |
